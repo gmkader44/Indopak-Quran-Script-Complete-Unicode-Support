@@ -1,5 +1,5 @@
 Indopak Quran Script
-I have created an Indopak Quran script that uses the latest Unicode standards for both font and text. This solves many problems found in older Indopak texts, such as broken copy-paste, wrong text direction, and font incompatibility.
+This project offers a fully Unicode-compliant Indopak Quran script that accurately displays Arabic Quranic text. It utilizes the latest Unicode standards for both the font and the text. This approach resolves several issues found in older Indopak texts, including problems with copy-pasting, incorrect text direction, and font incompatibility.
 
 Key Features
 ✅ All Arabic waqf marks are correctly included as Unicode, so they display properly everywhere.
