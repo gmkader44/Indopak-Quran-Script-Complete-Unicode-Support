@@ -13,3 +13,5 @@ Key Features
 ✅ Displays correctly in Google Docs and similar tools.
 
 NB: The Indopak script is also known as South Asian Arabic Script, Nastaliq Script, Nastaleeq Script, or South Asian Quranic Text.
+
+To see how it looks, I have developed a Quran website for testing and viewing purposes only: https://quranwebapp.netlify.app
